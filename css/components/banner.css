@@ -1,0 +1,43 @@
+* {
+  margin:0;
+  padding:0;
+}
+.container {
+}
+
+.banner-container {
+  height: 460px;
+  width: 100%;
+  background-size: cover;
+  color: white;
+}
+.banner-content {
+  text-align: center;
+  padding:150px;
+}
+
+.banner-content p {
+  color:rgba(240,240,240,0.7);
+}
+
+.banner-content h1 {
+  margin:40px;
+}
+
+
+.btn-white {
+  width:100px;
+  color:white;
+  display:block;
+  margin:20px auto;
+  text-align: center;
+  border:1px dotted white;
+  border-radius:8px;
+  top:250px;
+  left:660px;
+}
+
+.footer-container p {
+  color:grey;
+  font-size: 10px;
+}
